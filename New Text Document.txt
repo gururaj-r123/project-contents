@@ -62,4 +62,6 @@ In a chit fund application, defining clear roles is crucial for managing the int
 - **User Profiles**: Store role information in user profiles to manage permissions dynamically.
 - **UI Adjustments**: The frontend should display different options and functionalities based on the logged-in user’s role.
 
+https://dbdiagram.io/d/6718d42797a66db9a3fccd24
+
 This role structure should provide a solid foundation for managing user interactions in your chit fund application. Let me know if you need further details or adjustments!
